@@ -95,11 +95,8 @@ Read more about object detection model used, working of the algorithm, and devel
 ------------------------------------------
 ### Contributors
 
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
+Vitthal Samant -(https://github.com/vinemp/)
 
-Devansh Solanki - [devanshslnk](https://github.com/devanshslnk/)
-
-Rutwij Daptardar - [RDmaverick](https://github.com/RDmaverick)
 
 ------------------------------------------
 ### Acknowledgement
