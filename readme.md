@@ -53,12 +53,6 @@ Read more about object detection model used, working of the algorithm, and devel
 </p>
 
 ------------------------------------------
-### Prerequisites
-
-1. [Python 3.7](https://www.python.org/downloads/release/python-370/)
-2. [Microsoft Visual C++ build tools](http://go.microsoft.com/fwlink/?LinkId=691126&fixForIE=.exe.) (For Windows only)
-
-------------------------------------------
 
 
 
